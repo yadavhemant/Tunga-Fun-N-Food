@@ -1,0 +1,21 @@
+#ff
+{
+width : 80%;
+filter : progid:DXImageTransform.Microsoft.Blinds(Duration=10,  Direction='right' bands=10);
+}
+.cs
+{
+align:center;
+font-size:38pt;
+font-family:"JokeTrman";
+}
+
+#f
+{
+width : 80%;
+filter : progid:DXImageTransform.Microsoft.Barn(Duration=5,  Motion='in' Orientation='vertical');
+}
+#color
+{
+style.backgroundColor:red;
+}
